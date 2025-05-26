@@ -1,46 +1,45 @@
-☕ Core Java Training at JustAcademy
-Build a solid foundation in Java programming with our Core Java Training, designed for beginners and aspiring developers. Master object-oriented programming and essential concepts to kickstart your software development career.
+🚀 Advanced Java Training at JustAcademy
+Take your Java skills to the next level with our Advanced Java Training. Learn to build enterprise-level applications using Servlets, JSP, JDBC, and frameworks.
 
-🌐 Course Link: Core Java Training - JustAcademy
+🌐 Course Link: Advanced Java Training - JustAcademy
 
 📌 Why Choose This Course?
-✅ Expert Instructors with Real-World Experience
-Learn Java from professionals who apply it in real-time software projects.
+✅ Real-Time Project-Based Learning
+Gain hands-on experience in creating dynamic, data-driven applications.
 
-✅ Hands-On Coding Practice
-Work on real-world assignments and build mini-projects that enhance your problem-solving skills.
+✅ Trainer Support from Industry Experts
+Learn directly from professionals who work with Java in enterprise environments.
 
-✅ Flexible Batch Timings (Online & Offline)
-Choose from weekday, weekend, or fast-track options—available both online and at our training center.
+✅ Flexible Class Options
+Choose from online/offline, weekday/weekend sessions as per your convenience.
 
-✅ 100% Placement Support
-Resume prep, mock interviews, and dedicated placement help for Java developer roles.
+✅ Placement-Focused Curriculum
+Interview guidance and resume help tailored for Java development roles.
 
-✅ Certification That Validates Your Skills
-Earn a course completion certificate that adds value to your resume.
+✅ Industry-Recognized Certification
+Prove your advanced Java skills with a course completion certificate.
 
 📚 What You'll Learn
 
-Java syntax, variables, data types, and operators
+JDBC, Servlets, and JSP
 
-Object-Oriented Programming (OOPs) concepts
+MVC Architecture and JavaBeans
 
-Exception handling and file I/O
+Web application development using Java
 
-Collections and multithreading
+Project implementation with database integration
 
-Basic JDBC and intro to GUI programming
+Introduction to Spring and Hibernate (overview)
 
 👥 Ideal For
 
-Students & freshers exploring programming
+Core Java learners upgrading to enterprise Java
 
-Manual testers & non-programmers moving to development
+Final-year students building project skills
 
-Anyone looking to build a career in software engineering
+Developers looking to enhance backend knowledge
 
 📞 Get in Touch
-📍 Visit: https://www.justacademy.co/course-detail/core-java-training
+📍 Visit: https://www.justacademy.co/course-detail/advance-java-training
 
-#CoreJava #JavaTraining #JustAcademy #LearnJava #Programming #SoftwareDevelopment #JavaCourse #TechCareers
-
+#AdvancedJava #JavaDevelopment #JustAcademy #LearnJava #JavaFrameworks #WebApps #JavaBackend #TechCareers
